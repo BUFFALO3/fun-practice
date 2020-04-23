@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <title> implementing imputs with html </title>
+  <center>
+  <body>
+    <h1> inputs and such </h1>
+    <pl> input test #1 </pl>
+    <br>
+    <h3> sign up now for free things and not malware </h3>
+    <br>
+    <pl> email </pl>
+    <input type="text" placeholder="email" maxlength=30>
+     <br>
+      <pl> password </pl>
+      <input type="password" placeholder="password" maxlength=16>
+    <br>
+    
+        <br>
+        <img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/90976363_10158264677898909_4510263784526315520_o.jpg?_nc_cat=101&_nc_sid=2d5d41&_nc_oc=AQkaOE1AolveRlja6-7F6F28RMuUWMgvJJofSNKo7HadDLJeU47p-wBpRI34ZUJeETUQrnb5bPFA0NNTY8Jv84AE&_nc_ht=scontent-dfw5-1.xx&oh=6cb9e66ad4b0bc0c9a8f2578bc1f8a0a&oe=5EC8341B">
+        </body>
+      </html>
